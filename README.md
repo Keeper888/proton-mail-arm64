@@ -50,6 +50,10 @@ file "/usr/lib/proton-mail/Proton Mail Beta"
 - **Auto-updater** may try to fetch amd64 updates. Disable in settings if needed.
 - If Proton ever ships official ARM64 builds, this repo becomes unnecessary.
 
+## Credits
+
+Built with [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) — the AI pair programmer that did the heavy lifting.
+
 ## License
 
 - Proton Mail app: [GPL-3.0](https://github.com/ProtonMail/WebClients/blob/main/LICENSE)
