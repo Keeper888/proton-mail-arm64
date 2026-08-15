@@ -8,7 +8,7 @@ Proton ships a Linux desktop client, but only for `amd64`. This repo swaps the x
 
 ```bash
 # Download the pre-built ARM64 package
-wget https://github.com/YOUR_USERNAME/proton-mail-arm64/releases/download/v1.13.4/proton-mail_1.13.4_arm64.deb
+wget https://github.com/Keeper888/proton-mail-arm64/releases/download/v1.13.4/proton-mail_1.13.4_arm64.deb
 
 # Install
 sudo dpkg -i proton-mail_1.13.4_arm64.deb
@@ -20,7 +20,7 @@ Launch **Proton Mail Beta** from your app menu.
 ## Build It Yourself
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/proton-mail-arm64.git
+git clone https://github.com/Keeper888/proton-mail-arm64.git
 cd proton-mail-arm64
 ./repack-arm64.sh
 sudo dpkg -i proton-mail_1.13.4_arm64.deb
