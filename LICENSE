@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This license covers the repackaging scripts in this repository only.
-Proton Mail itself is (c) Proton AG, licensed under GPL-3.0:
-https://github.com/ProtonMail/WebClients/blob/main/LICENSE
-Electron is (c) the Electron contributors, licensed under MIT.
