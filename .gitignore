@@ -1,0 +1,5 @@
+*.deb
+*.deb.sha256
+*.zip
+deb-extract/
+electron-arm64/
